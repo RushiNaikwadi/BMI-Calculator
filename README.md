@@ -1,2 +1,16 @@
-# BMI-Calculator
-A BMI calculator app. I have build this app using flutter. I have used dart language for the scripting purpose. This app tells the user whether the user is fit or not. Specially it also tells the user in which category he/she comes in.
+# bmi_calculator
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
